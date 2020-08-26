@@ -1,0 +1,14 @@
+{
+  "name": "secure-ls",
+  "version": "1.2.6",
+  "description": "Secure localStorage data with high level of encryption and data compression",
+  "main": "./secure-ls/index.js",
+  "typings": "./secure-ls/index.d.ts",
+  "author": "Varun Malhotra",
+  "license": "MIT",
+  "homepage": "https://github.com/softvar/secure-ls",
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "lz-string": "^1.4.4"
+  }
+}
